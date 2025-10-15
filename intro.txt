@@ -1,0 +1,27 @@
+giới thiệu
+tôi là Ngô Trường Thịnh, sinh viên lớp DH22TIN05
+tôi đến từ Hậu GIang 
+tôi thích những điều thú vị
+mục tiêu của tôi là đi du lịch hắp thế giới
+Sở thích 
+- Nge nhạc
+- Du lịch
+- Thư giản
+Kỹ Năng: 
+- Sử lý tình huống
+- làm việc nhóm
+- Giao tiếp
+cat > intro.txt << 'EOF'
+giới thiệu:
+- tôi là Ngô Trường Thịnh, sinh viên lớp DH22TIN05
+- tôi đến từ Hậu GIang 
+- tôi thích những điều thú vị
+- mục tiêu của tôi là đi du lịch hắp thế giới
+Sở thích 
+- Nge nhạc
+- Du lịch
+- Thư giản
+Kỹ Năng: 
+- Sử lý tình huống
+- làm việc nhóm
+- Giao tiếp
