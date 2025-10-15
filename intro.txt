@@ -44,3 +44,10 @@ Kỹ năng:
 - Viết tài liệu
 - Làm việc nhóm
 - làm việt nhóm
+
+Kế hoạch học tập:
+- Ôn lại Git căn bản
+- Thực hành branch/merge
+- Luyện xử lý conflict
+- Học reset/revert/restore
+- Thực hành stash/tag/release
